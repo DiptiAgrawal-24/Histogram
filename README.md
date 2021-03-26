@@ -1,2 +1,2 @@
 # Histogram
-creating a histogram of an image
+This is a python program of plotting histogram of an image without using opencv.
